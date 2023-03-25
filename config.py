@@ -1,1 +1,1 @@
-token_tg = "6020982019:AAHlGs1vClK_bt0S8zNooniW_1UEQvZRotA"
+token_tg = "Your API Token"
